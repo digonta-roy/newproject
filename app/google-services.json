@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "380451024102",
+    "project_id": "hello-doctor-f4dbb",
+    "storage_bucket": "hello-doctor-f4dbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380451024102:android:91a38c69b63cb3aad55f27",
+        "android_client_info": {
+          "package_name": "com.example.hellodoctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380451024102-u22lei1a8i4s4jgho93uqq2n885tus4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd8Bnoiv2Dzw9LqzMcGK7xUsk5BOB1XmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380451024102-u22lei1a8i4s4jgho93uqq2n885tus4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

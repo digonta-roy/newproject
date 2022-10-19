@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+   <RelativeLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_margin="15dp"
+       android:padding="15dp">
+
+       <ImageView
+           android:id="@+id/imageView_logo"
+           android:layout_width="match_parent"
+           android:layout_height="206dp"
+           android:layout_marginTop="30dp"
+           android:src="@drawable/logo1"
+           android:maxWidth="180dp"
+           android:adjustViewBounds="true"
+           android:layout_centerHorizontal="true">
+
+       </ImageView>
+
+       <TextView
+           android:layout_marginTop="240dp"
+           android:layout_width="match_parent"
+           android:layout_height="100dp"
+           android:text="Make Doctor's \nAppoinment Easily"
+           android:textSize="30dp"
+           android:textStyle="bold">
+
+       </TextView>
+       <Button
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:id="@+id/button_login"
+           android:text="Login"
+           android:layout_marginTop="400dp">
+
+
+       </Button>
+       <Button
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:id="@+id/button_register"
+           android:text="Register"
+           android:layout_marginTop="450dp">
+
+
+       </Button>
+
+
+
+
+
+   </RelativeLayout>
+
+
+
+
+
+
+
+</ScrollView>
+
+
